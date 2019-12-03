@@ -1,6 +1,6 @@
 [submodule "libmctp"]
 	path = src/import/libmctp
-	url = https://github.com/openbmc/libmctp
+	url = https://github.com/openbmc/libmctp.git
 
 	# We want this submodule to be cloned automatically when
 	# the Hostboot repo is recursively clone.
